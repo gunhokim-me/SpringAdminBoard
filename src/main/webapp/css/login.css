@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body.login-page {
+	background-image: url('../resources/images/intro.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
